@@ -1,4 +1,4 @@
-/// Первое задание
+// Первое задание
 console.log("Первое задание-----------------------");
 
 function countPC(number) {
@@ -48,8 +48,8 @@ function showArray(array) {
 }
 
 let numbers = [8, 12, 4, 16];
-let result = createArray(numbers);
-showArray(result);
+let arr = createArray(numbers);
+showArray(arr);
 
 // Третье задание
 console.log("Третье задание-----------------------");
